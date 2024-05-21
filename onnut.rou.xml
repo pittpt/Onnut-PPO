@@ -1,0 +1,116 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType accel="2.0" decel="2.5" id="Car" latAlignment="center" lcLaneDiscipline="1" lcSublane="100" lcPushy="0" lcStrategic="0" lcCooperative="1" minGapLat="0.05" width="1.78" length="4.62" minGap="2.37" maxSpeed="12.5" sigma="0.7"/>
+
+    <route id = "1" edges="336620983#0 336620983#3 336620983#5 336620983#7 482404745#0 482404745#4 300825126#0 300825126#0-AddedOffRampEdge 824116561 824116561-AddedOffRampEdge 824816455 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE32" color="yellow"/>
+    <route id = "2" edges="336620983#0 336620983#3 336620983#5 336620983#7 482404745#0 482404745#4 300825126#0 300825126#0-AddedOffRampEdge 824116561 824116561-AddedOffRampEdge 824816455 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE34 824456409#5 824456409#6 113135397#1 113135397#3 113135397#5 113135397#7 113135397#8 113135397#10 113135397#11 113135397#13 113135397#14 113135397#16 113135397#17 113135397#18 113135397#19 113135397#20 113135397#21 113135397#22 113135397#25" color="yellow"/>
+    <route id = "3" edges="336620983#0 336620983#3 336620983#5  336620983#7 482404745#0 482404745#4 300825126#0 300825126#0-AddedOffRampEdge 824116561 824116561-AddedOffRampEdge 824816455 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE34 824456409#5 824456409#6 113135397#1 113135397#3                " color="yellow"/>
+    <route id = "4" edges="336620983#0 336620983#3 336620983#5  336620983#7 482404745#0 482404745#4 300825126#0 300825126#0-AddedOffRampEdge 824116561 824116561-AddedOffRampEdge 824816455 824116560#0 824116560#1 824116560#2 824116560#3 751454885#0 751454885#2 751454885#3 751454885#5 450149632#0 450149632#2 450149632#3                 " color="yellow"/>
+    <route id = "5" edges="gneE29 gneE34 824456409#5 824456409#6 113135397#1 113135397#3 113135397#5 113135397#7 113135397#8 113135397#10 113135397#11 113135397#13 113135397#14 113135397#16 113135397#17 113135397#18 113135397#19 113135397#20 113135397#21 " color="yellow"/>
+    <route id = "6" edges="gneE14 156591171#2 751454885#0 751454885#2 751454885#3 751454885#5 450149632#0 450149632#2 450149632#3 " color="yellow"/>
+    <route id = "7" edges="751455690#0 751454884#0 751454884#1 751454884#2 751454884#3 750035412#1 750035412#1-AddedOffRampEdge 824816456 156261400 824816458#0 377691430#0 185007810#0 185007810#1 185007810#3 185007810#5                       " color="yellow"/>
+    <route id = "8" edges="751455690#0 751454884#0 751454884#1 751454884#2 751454884#3 750035412#1 750035412#1-AddedOffRampEdge 113135465#0 113135465#2 113135465#5 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE32                 " color="yellow"/>
+    <route id = "9" edges="751455690#0 751454884#0 751454884#1 751454884#2 751454884#3 750035412#1 750035412#1-AddedOffRampEdge 113135465#0 113135465#2 113135465#5 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE34 824456409#5 824456409#6 113135397#1 113135397#3 113135397#5 113135397#7 113135397#8 113135397#10 113135397#11 113135397#13 113135397#14 113135397#16 113135397#17 113135397#18 113135397#19 113135397#20 113135397#21 113135397#22 113135397#25 " color="yellow"/>
+    <route id = "10" edges="751455690#0 751454884#0 751454884#1 751454884#2 751454884#3 750035412#1 750035412#1-AddedOffRampEdge 113135465#0 113135465#2 113135465#5 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE34 824456409#5 824456409#6 113135397#1 113135397#3                " color="yellow"/>
+    <route id = "11" edges="-113135397#26 -113135397#24 -113135397#21 -113135397#20 -113135397#19 -113135397#18 -113135397#17 -113135397#16 -113135397#15 -113135397#13 -113135397#12 -113135397#10 -113135397#8 -113135397#7 -113135397#6 -113135397#4 -113135397#2 -113135397#0 -824456409#5 gneE33 gneE32                " color="yellow"/>
+    <route id = "12" edges="-113135397#26 -113135397#24 -113135397#21 -113135397#20 -113135397#19 -113135397#18 -113135397#17 -113135397#16 -113135397#15 -113135397#13 -113135397#12 -113135397#10 -113135397#8 -113135397#7 -113135397#6 -113135397#4                      " color="yellow"/>
+    <route id = "13" edges="-113135397#26 -113135397#24 -113135397#21 -113135397#20 -113135397#19 -113135397#18 -113135397#17 -113135397#16 -113135397#15 -113135397#13 -113135397#12 -113135397#10 -113135397#8 -113135397#7 -113135397#6 -113135397#4 -113135397#2 -113135397#0 -824456409#5 gneE33 -gneE24 -824456409#0 156591171#0 -824456410#2 156591171#2 751454885#0 751454885#2 751454885#3 751454885#5 450149632#0 450149632#2 450149632#3        " color="yellow"/>
+    <route id = "14" edges="-113135397#21 -113135397#20 -113135397#19 -113135397#18 -113135397#17 -113135397#16 -113135397#15 -113135397#13 -113135397#12 -113135397#10 -113135397#8 -113135397#7 -113135397#6 -113135397#4 -113135397#2 -113135397#0 -824456409#5 gneE33 -gneE24 -824456409#0 156591171#0 -824456410#2 156591171#2 750035412#1 750035412#1-AddedOffRampEdge 824816456 156261400 824816458#0 377691430#0 185007810#0 185007810#1 185007810#3 185007810#5"/>
+    <route id = "15" edges="gneE14 156591171#2 750035412#1 750035412#1-AddedOffRampEdge 824816456 156261400 824816458#0 377691430#0 185007810#0 185007810#1 185007810#3 185007810#5" color="yellow"/>
+
+    <route id = "C_SB" edges="824116560#3"/>
+    <route id = "C_WB" edges="156591171#2"/>
+    <route id = "C_NB" edges="751454884#3"/>
+
+
+    <!-- <flow id="1" route="1" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="339"/>
+    <flow id="1" route="1" type="Car" begin="57600" departLane="random" departPos="free" end="61599" vehsPerHour="339"/>
+    <flow id="1" route="1" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="339"/>
+    <flow id="1" route="1" type="Car" begin="64800" departLane="random" departPos="free" end="68399" vehsPerHour="339"/>
+    <flow id="1" route="1" type="Car" begin="68400" departLane="random" departPos="free" end="72000" vehsPerHour="339"/> -->
+
+<!-- 3-4 PM -->
+    <flow id="1" route="1" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+    <!-- Phakanong BigC -->
+    <flow id="2" route="2" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="543"/>
+    <!-- Phakanong Onnut -->
+    <flow id="3" route="3" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+    <!-- Phakanong Habi -->
+    <flow id="4" route="4" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="1455"/>
+    <!-- Phakanong BTS -->
+    <!-- <flow id="5" route="5" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="100"/> -->
+    <flow id="6" route="6" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+     <!-- BigC BTS -->
+    <flow id="7" route="7" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="1057"/>
+    <!-- BTS Phakanong -->
+    <flow id="8" route="8" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+     <!-- BTS BigC -->
+    <flow id="9" route="9" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="514"/>
+    <!-- BTS Onnut -->
+    <flow id="10" route="10" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+    <!-- BTS Habi -->
+    <!-- <flow id="11" route="11" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="100"/> -->
+    <!-- <flow id="12" route="12" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="100"/> -->
+    <flow id="13" route="13" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="326"/>
+    <!-- Onnut BTS -->
+    <flow id="14" route="14" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="731"/>
+    <!-- Onnut Phakanong -->
+    <flow id="15" route="15" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="30"/>
+    <!-- BigC Phakanong -->
+
+    <!-- 4-5 PM -->
+    <flow id="45_1" route="1" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+    <flow id="45_2" route="2" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="516"/>
+    <flow id="45_3" route="3" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+    <flow id="45_4" route="4" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="1542"/>
+    <!-- <flow id="5" route="5" type="Car" begin="54000" departLane="random" departPos="free" end="57599" vehsPerHour="0"/> -->
+    <flow id="45_6" route="6" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+    <flow id="45_7" route="7" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="1055"/>
+    <flow id="45_8" route="8" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+    <flow id="45_9" route="9" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="513"/>
+    <flow id="45_10" route="10" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+    <!-- <flow id="45_11" route="11" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="0"/> -->
+    <!-- <flow id="45_12" route="12" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="0"/> -->
+    <flow id="45_13" route="13" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="321"/>
+    <flow id="45_14" route="14" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="559"/>
+    <flow id="45_15" route="15" type="Car" begin="57600" departLane="random" departPos="free" end="61199" vehsPerHour="30"/>
+
+
+    <!-- 5-6 PM -->
+    <flow id="56_1" route="1" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+    <flow id="56_2" route="2" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="227"/>
+    <flow id="56_3" route="3" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+    <flow id="56_4" route="4" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="1652"/>
+    <!-- <flow id="56_5" route="5" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="0"/> -->
+    <flow id="56_6" route="6" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+    <flow id="56_7" route="7" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="1142"/>
+    <flow id="56_8" route="8" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+    <flow id="56_9" route="9" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="556"/>
+    <flow id="56_10" route="10" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+    <!-- <flow id="11" route="56_11" type="Car" begin="54000" departLane="random" departPos="free" end="64799" vehsPerHour="0"/> -->
+    <!-- <flow id="12" route="56_12" type="Car" begin="54000" departLane="random" departPos="free" end="64799" vehsPerHour="0"/> -->
+    <flow id="56_13" route="13" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="436"/>
+    <flow id="56_14" route="14" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="599"/>
+    <flow id="56_15" route="15" type="Car" begin="61200" departLane="random" departPos="free" end="64799" vehsPerHour="30"/>
+
+<!-- 6-7 PM -->
+    <flow id="67_1" route="1" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+    <flow id="67_2" route="2" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="210"/>
+    <flow id="67_3" route="3" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+    <flow id="67_4" route="4" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="1533"/>
+    <!-- <flow id="67_5" route="5" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="0"/> -->
+    <flow id="67_6" route="6" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+    <flow id="67_7" route="7" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="1029"/>
+    <flow id="67_8" route="8" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+    <flow id="67_9" route="9" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="500"/>
+    <flow id="67_10" route="10" type="Car" begin="54000" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+    <!-- <flow id="67_11" route="11" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="0"/> -->
+    <!-- <flow id="67_12" route="12" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="0"/> -->
+    <flow id="67_13" route="13" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="342"/>
+    <flow id="67_14" route="14" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="766"/>
+    <flow id="67_15" route="15" type="Car" begin="64800" departLane="random" departPos="free" end="68400" vehsPerHour="30"/>
+
+
+
+
+
+</routes>

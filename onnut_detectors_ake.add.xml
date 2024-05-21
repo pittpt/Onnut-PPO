@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='ASCII'?>
+<additionals>
+  <!-- <e2Detector id="S_ONT_01_0" lane="113135397#3_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_01_1" lane="113135397#3_1" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+   -->
+  <e2Detector id="S_ONT_01_0" lane="113135397#3_0" pos="0.0" endPos="0.00" friendlyPos="True" length="69.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_01_1" lane="113135397#3_1" pos="0.0" endPos="0.00" friendlyPos="True" length="69.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <!-- <e2Detector id="S_ONT_02_0" lane="-113135397#4_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_02_1" lane="-113135397#4_1" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+   -->
+
+  <e2Detector id="S_ONT_02_0" lane="-113135397#4_0" pos="0.0" endPos="0.00" friendlyPos="True" length="69.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_02_1" lane="-113135397#4_1" pos="0.0" endPos="0.00" friendlyPos="True" length="69.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+
+  <e2Detector id="S_ONT_03_0" lane="751454885#2_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_03_1" lane="751454885#2_1" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_03_2" lane="751454885#2_2" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <!-- <e2Detector id="S_ONT_04_0" lane="751454884#2_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_04_1" lane="751454884#2_1" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_04_2" lane="751454884#2_2" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+   -->
+
+  <e2Detector id="S_ONT_04_0" lane="751454884#2_0" pos="0.0" endPos="0.00" friendlyPos="True" length="120.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_04_1" lane="751454884#2_1" pos="0.0" endPos="0.00" friendlyPos="True" length="120.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_04_2" lane="751454884#2_2" pos="0.0" endPos="0.00" friendlyPos="True" length="120.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+
+  <e2Detector id="S_ONT_05_0" lane="156591171#2_0" pos="0.0" endPos="0.00" friendlyPos="True" length="117.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_05_1" lane="156591171#2_1" pos="0.0" endPos="0.00" friendlyPos="True" length="117.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_05_2" lane="156591171#2_2" pos="0.0" endPos="0.00" friendlyPos="True" length="117.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_06_0" lane="824116560#3_0" pos="0.0" endPos="0.00" friendlyPos="True" length="20.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_06_1" lane="824116560#3_1" pos="0.0" endPos="0.00" friendlyPos="True" length="20.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_06_2" lane="824116560#3_2" pos="0.0" endPos="0.00" friendlyPos="True" length="20.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_06_3" lane="824116560#3_3" pos="0.0" endPos="0.00" friendlyPos="True" length="20.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_07_0" lane="300825126#0_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_07_1" lane="300825126#0_1" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_07_2" lane="300825126#0_2" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_08_0" lane="113135465#0_0" pos="0.0" endPos="0.00" friendlyPos="True" length="50.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <!-- added detector on 27 Feb -->
+
+  <e2Detector id="S_ONT_09_0" lane="751454884#3_0" pos="0.0" endPos="0.00" friendlyPos="True" length="106.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_09_1" lane="751454884#3_1" pos="0.0" endPos="0.00" friendlyPos="True" length="106.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_09_2" lane="751454884#3_2" pos="0.0" endPos="0.00" friendlyPos="True" length="106.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_10_0" lane="750035412#1-AddedOffRampEdge_0" pos="0.0" endPos="0.00" friendlyPos="True" length="110.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_10_1" lane="750035412#1-AddedOffRampEdge_1" pos="0.0" endPos="0.00" friendlyPos="True" length="110.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_10_2" lane="750035412#1-AddedOffRampEdge_2" pos="0.0" endPos="0.00" friendlyPos="True" length="110.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_11_0" lane="824116560#0_0" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_11_1" lane="824116560#0_1" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_11_2" lane="824116560#0_2" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_11_3" lane="824116560#0_3" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_12_0" lane="824116560#1_0" pos="0.0" endPos="0.00" friendlyPos="True" length="17.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_12_1" lane="824116560#1_1" pos="0.0" endPos="0.00" friendlyPos="True" length="17.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_12_2" lane="824116560#1_2" pos="0.0" endPos="0.00" friendlyPos="True" length="17.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_12_3" lane="824116560#1_3" pos="0.0" endPos="0.00" friendlyPos="True" length="17.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_13_0" lane="-gneE25_0" pos="0.0" endPos="0.00" friendlyPos="True" length="13.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_13_1" lane="-gneE25_1" pos="0.0" endPos="0.00" friendlyPos="True" length="13.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_14_0" lane="824456409#0_0" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_14_1" lane="824456409#0_1" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+
+  <e2Detector id="S_ONT_15_0" lane="-824456409#0_0" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_15_1" lane="-824456409#0_1" pos="0.0" endPos="0.00" friendlyPos="True" length="24.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+  <e2Detector id="S_ONT_16_0" lane="-gneE24_0" pos="0.0" endPos="0.00" friendlyPos="True" length="13.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+  <e2Detector id="S_ONT_16_1" lane="-gneE24_1" pos="0.0" endPos="0.00" friendlyPos="True" length="13.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+
+  <e2Detector id="S_ONT_17_0" lane="gneE29_0" pos="0.0" endPos="0.00" friendlyPos="True" length="83.00" freq="2.00" file="map_grid_lock_output1.xml" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00"/>
+
+
+  <!-- Induction Loop (e1Detector)   -->
+
+  <!-- Onnut Intersection -->
+  <e1Detector id="Induction_Loop_1" lane="751454884#3_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_2" lane="751454884#3_1" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_3" lane="751454884#3_2" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+  <e1Detector id="Induction_Loop_4" lane="824116560#3_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_5" lane="824116560#3_1" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_6" lane="824116560#3_2" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_7" lane="824116560#3_3" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+  <e1Detector id="Induction_Loop_8" lane="156591171#2_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_9" lane="156591171#2_1" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Induction_Loop_10" lane="156591171#2_2" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+  <!-- Virtual Intersection -->
+  <e1Detector id="Virtual_loop_1" lane="-gneE25_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Virtual_loop_2" lane="-gneE25_1" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+  <e1Detector id="Virtual_loop_3" lane="gneE33_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+  <e1Detector id="Virtual_loop_4" lane="gneE33_1" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+  <e1Detector id="Virtual_loop_5" lane="gneE29_0" pos="-1.00" friendlyPos="True" freq="2.00" file="map_grid_lock_output1.xml" />
+
+
+
+<!-- additional lines for the Minibus -->
+    <!--
+	<vType id="Bus" length="6" minGap="100" maxSpeed="12.5" accel="2.0" decel="2.5" vClass="bus" sigma="0.7" color="red"/>
+    <route id = "bus1" edges="-504358029#2 113135465#5 824116560#0 824116560#1 824116560#2 824116560#3 824456410#0 824456410#0.21 824456410#0.45 824456410#0.70 824456410#0.93 824456410#2 824456410#2.27 824456410#2.41 824456410#2.41.15 824456409#0 -gneE25 gneE34 824456409#5 824456409#6 113135397#1 113135397#3 113135397#5 113135397#7 113135397#8 113135397#10 113135397#11 113135397#13 113135397#14 113135397#16 113135397#17 113135397#18 113135397#19 113135397#20 113135397#21">
+    </route>
+    <route id = "bus2" edges ="-113135397#21 -113135397#20 -113135397#19 -113135397#18 -113135397#17 -113135397#16 -113135397#15 -113135397#13 -113135397#12 -113135397#10 -113135397#8 -113135397#7 -113135397#6 -113135397#4 -113135397#2 -113135397#0 -824456409#5 gneE33 -gneE24 -824456409#0 156591171#0 -824456410#2 156591171#2 750035412#1 750035412#1-AddedOffRampEdge 113135465#0 113135465#2 -442905891#2"/>
+
+    <busStop id="Freshmarkt1" lane="824456410#2_0" startPos="1" endPos="19"/>
+    <busStop id="Freshmarkt2" lane="824456410#2.41.15_0" startPos="0" endPos="14"/>
+    <busStop id="Onnut7" lane="113135397#11_0" startPos="0" endPos="30"/>
+    <busStop id="Onnut11" lane="113135397#16_0" startPos="0" endPos="40"/>
+    <busStop id="Onnut15" lane="113135397#18_0" startPos="0" endPos="20"/>
+    <busStop id="Onnut17" lane="113135397#19_0" startPos="0" endPos="40"/>
+    <busStop id="CommMall" lane="-113135397#15_0" startPos="0" endPos="40"/>
+    <busStop id="Onnut15_ops" lane="-113135397#18_0" startPos="0" endPos="20"/>
+    <busStop id="Onnut17_ops" lane="-113135397#19_0" startPos="0" endPos="40"/>
+    <busStop id="BigC" lane="156591171#0_0" startPos="0" endPos="30"/>
+    <busStop id="Prodmarkt" lane="156591171#2_0" startPos="60" endPos="100"/>
+    
+	
+    <flow id="bus1" type="Bus" begin="54000" departLane="free" departPos="free" route="bus1" end="75600" vehsPerHour="84">
+        <stop busStop="Freshmarkt1" duration="20"/>
+        <stop busStop="Freshmarkt2" duration="20"/>
+        <stop busStop="Onnut7" duration="20"/>
+        <stop busStop="Onnut11" duration="20"/>
+        <stop busStop="Onnut15" duration="20"/>
+        <stop busStop="Onnut17" duration="20"/>
+    </flow>
+     <flow id="bus2" type="Bus" begin="54000" departLane="free" departPos="free" route="bus2" end="75600" vehsPerHour="84">
+    	<stop busStop="Onnut17_ops" duration="20"/>
+        <stop busStop="Onnut15_ops" duration="20"/>
+        <stop busStop="CommMall" duration="20"/>
+        <stop busStop="BigC" duration="20"/>
+        <stop busStop="Prodmarkt" duration="20"/>
+    </flow>
+   -->
+
+
+</additionals>
